@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hthkydv/static/css/main.bf538fe7.css",
+    "main.js": "/hthkydv/static/js/main.deb2203a.js",
+    "static/media/dogty.png": "/hthkydv/static/media/dogty.70b123c96f45b3186437.png",
+    "static/media/Hrithik.jpg": "/hthkydv/static/media/Hrithik.eeaff48904a58ed25dfa.jpg",
+    "static/media/todo.png": "/hthkydv/static/media/todo.9427a3615f94f373df5e.png",
+    "static/media/poshak.png": "/hthkydv/static/media/poshak.13db47de1b9d46673827.png",
+    "static/media/communiation.png": "/hthkydv/static/media/communiation.29fc26b26aa7b5bc8b18.png",
+    "static/media/myweb.png": "/hthkydv/static/media/myweb.2313f7052d42a8af289b.png",
+    "static/media/railways.jpg": "/hthkydv/static/media/railways.d462ffc0232eb2511812.jpg",
+    "static/media/bteup.jpg": "/hthkydv/static/media/bteup.2e2b55b537f324673045.jpg",
+    "static/media/tenth.png": "/hthkydv/static/media/tenth.af020829af1a975f1886.png",
+    "static/media/facepy.jpg": "/hthkydv/static/media/facepy.f4f6a903d2a6420cbea8.jpg",
+    "index.html": "/hthkydv/index.html",
+    "main.bf538fe7.css.map": "/hthkydv/static/css/main.bf538fe7.css.map",
+    "main.deb2203a.js.map": "/hthkydv/static/js/main.deb2203a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.deb2203a.js"
+  ]
+}
